@@ -1,7 +1,9 @@
 {
   "name": "intermediate-react-hooks",
+  "description": "Workshop about using built-in react hooks but also create and test custom hooks.",
   "version": "0.1.0",
   "private": true,
+  "author": "Marco Antonio Ghiani <marcoantonio.ghiani01@gmail.com> (https://github.com/tonyghiani)",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
