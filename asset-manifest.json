@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/intermediate-react-hooks/static/js/main.cda84e42.chunk.js",
+    "main.js.map": "/intermediate-react-hooks/static/js/main.cda84e42.chunk.js.map",
+    "runtime-main.js": "/intermediate-react-hooks/static/js/runtime-main.87a035b9.js",
+    "runtime-main.js.map": "/intermediate-react-hooks/static/js/runtime-main.87a035b9.js.map",
+    "static/js/2.66129a43.chunk.js": "/intermediate-react-hooks/static/js/2.66129a43.chunk.js",
+    "static/js/2.66129a43.chunk.js.map": "/intermediate-react-hooks/static/js/2.66129a43.chunk.js.map",
+    "index.html": "/intermediate-react-hooks/index.html",
+    "static/js/2.66129a43.chunk.js.LICENSE.txt": "/intermediate-react-hooks/static/js/2.66129a43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a035b9.js",
+    "static/js/2.66129a43.chunk.js",
+    "static/js/main.cda84e42.chunk.js"
+  ]
+}
