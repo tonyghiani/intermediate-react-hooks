@@ -5,11 +5,15 @@
   "private": true,
   "author": "Marco Antonio Ghiani <marcoantonio.ghiani01@gmail.com> (https://github.com/tonyghiani)",
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
+    "prism-react-renderer": "^1.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-live": "^2.2.3",
+    "react-query": "^3.6.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
